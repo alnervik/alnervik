@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Kalle</h1>
-<h3 align="center">Learning to become a developer. From 🇸🇪</h3>
+<h3 align="center">Learning to become a programmer. From 🇸🇪</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alnervik&label=Profile%20views&color=0e75b6&style=flat" alt="alnervik" /> </p>
 
