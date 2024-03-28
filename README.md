@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alnervik&label=Profile%20views&color=0e75b6&style=flat" alt="alnervik" /> </p>
 
-- 🔭 I’m currently working on [The Player's Guide to C#](https://csharpplayersguide.com/)
-
-- 🌱 I’m currently learning **C#**
+- 🔭 I’m currently working on [The Player's Guide to C#](https://csharpplayersguide.com/) and [The Odin Project](https://www.theodinproject.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
