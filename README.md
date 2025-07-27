@@ -1,9 +1,7 @@
 <h1 align="center">Hello! I'm Kalle</h1>
-<h3 align="center">Learning to become a programmer. From 🇸🇪</h3>
+<h3 align="center"> From 🇸🇪</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alnervik&label=Profile%20views&color=0e75b6&style=flat" alt="alnervik" /> </p>
-
-- 🔭 I’m currently studying Webdeveloper .NET at Campus Värnamo
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
