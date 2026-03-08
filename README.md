@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Kalle</h1>
-<h3 align="center"> From 🇸🇪</h3>
+<h3 align="center">A teacher from 🇸🇪. Hosting my repos I'm using in elementry school</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alnervik&label=Profile%20views&color=0e75b6&style=flat" alt="alnervik" /> </p>
 
